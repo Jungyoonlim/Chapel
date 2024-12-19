@@ -1,1 +1,25 @@
- 
+{
+    "name": "chapel",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {
+        "@types/react": "^19.0.2"
+    },
+    "main": ".eslintrc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jungyoonlim/Chapel.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/Jungyoonlim/Chapel/issues"
+    },
+    "homepage": "https://github.com/Jungyoonlim/Chapel#readme",
+    "description": ""
+}
